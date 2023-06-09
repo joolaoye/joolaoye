@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Joshua's World</h1>
-<h3 align="center">A Cybersecurity major, interested in game development and data analysis</h3>
+<h3 align="center">Cybersecurity Major SCSU 26</h3>
 
 - 🔭 I’m currently working on [PyChess](https://github.com/PapiChuloXX/CS50_Final_Project.git)
 
