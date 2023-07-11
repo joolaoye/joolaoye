@@ -1,12 +1,6 @@
 <h1 align="center">Welcome to Joshua's World</h1>
 <h3 align="center">Cybersecurity Major SCSU 26</h3>
 
-- 🔭 I’m currently working on [PyChess](https://github.com/PapiChuloXX/CS50_Final_Project.git)
-
-- 🌱 I’m currently learning **https://www.coursera.org/specializations/machine-learning-introduction**
-
-- 👯 I’m looking to collaborate on [PyChess](https://github.com/PapiChuloXX/CS50_Final_Project.git)
-
 - 📫 How to reach me **joshuaolaoye46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
