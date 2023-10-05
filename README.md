@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Joshua's World</h1>
-<h3 align="center">A Cybersecurity major</h3>
+<h3 align="center"></h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/joshua-olaoye-62603a288**
 
