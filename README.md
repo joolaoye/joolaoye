@@ -1,4 +1,6 @@
-<h3 align="center">Joshua Olaoye</h3>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&pause=2000&color=A0DA7DC7&random=false&width=435&lines=Welcome+to+Joshua's+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
 <a href="https://joolaoye.github.io/portfolio"><img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=Vercel&logoColor=white"/></a> &nbsp; <a href="mailto:joshuaolaoye46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp; <a href="https://www.linkedin.com/in/joolaoye"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
@@ -6,7 +8,7 @@
 
 
 ## Bio
-> A second year Computer Science and Cybersecurity double major at St. Cloud State University looking to break into the world of Software Engineering.
+> I am a second year Computer Science and Cybersecurity double major at St. Cloud State University looking to break into the world of Software Engineering.
 
 ## Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
