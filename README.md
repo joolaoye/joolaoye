@@ -1,10 +1,12 @@
-# Joshua Olaoye
+<h3 align="center">Joshua Olaoye</h3>
 
-[![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=Vercel&logoColor=white)](https://joolaoye.github.io/portfolio)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joshuaolaoye46@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joolaoye)
+<p align="center">
+<a href="https://joolaoye.github.io/portfolio"><img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=Vercel&logoColor=white"/></a> &nbsp; <a href="mailto:joshuaolaoye46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp; <a href="https://www.linkedin.com/in/joolaoye"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
+</p>
 
-A second year Computer Science and Cybersecurity double major at St. Cloud State University looking to break into the world of Software Engineering.
+
+## Bio
+> A second year Computer Science and Cybersecurity double major at St. Cloud State University looking to break into the world of Software Engineering.
 
 ## Languages
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
