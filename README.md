@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<a href="https://joolaoye.github.io/portfolio"><img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=Vercel&logoColor=white"/></a> &nbsp; <a href="mailto:joshuaolaoye46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp; <a href="https://www.linkedin.com/in/joolaoye"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
+<a href="https://www.joolaoye.com/"><img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=Vercel&logoColor=white"/></a> &nbsp; <a href="mailto:joshuaolaoye46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp; <a href="https://www.linkedin.com/in/joolaoye"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> 
 </p>
 
 
